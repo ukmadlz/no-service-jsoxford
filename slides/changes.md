@@ -1,6 +1,6 @@
 #  Changes
 
-```
+```javascript
 db.changes(options);
 
 var changes = db.changes({
