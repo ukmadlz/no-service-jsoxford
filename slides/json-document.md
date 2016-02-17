@@ -3,7 +3,7 @@
 ```
 var doc = {
   event: "JSOxford",
-  type: "conference",
-  date: "2015-10-15"
+  type: "meetup",
+  date: "2016-02-17"
 }
 ```
