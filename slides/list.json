@@ -66,6 +66,7 @@
     ],
     [
         "localstorage.md",
+        "so-simple.md",
         "httpsdevelopermozillaorgendocswebapiwindowlocalstorage.md"
     ],
     "web-sql-indexed-db.md",

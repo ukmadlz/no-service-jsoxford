@@ -3,10 +3,10 @@
 ```
 db.put(doc, [docId], [docRev], [options], [callback]);
 
-db.get('brumjs', function(err, doc) {
+db.get('jsoxford', function(err, doc) {
   if (err) { return console.log(err); }
   db.put({
-    _id: 'brumjs',
+    _id: 'jsoxford',
     _rev: doc._rev,
     talk: "No Service"
   }, function(err, response) {

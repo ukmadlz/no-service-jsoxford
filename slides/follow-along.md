@@ -1,7 +1,7 @@
 #  Follow Along
 
-[http://elsmore.me/no-service-seium-2016/](http://elsmore.me/no-service-seium-2016/)
+[http://elsmore.me/no-service-jsoxford/](http://elsmore.me/no-service-jsoxford/)
 
 ## Demo
 
-[http://elsmore.me/seium-demo/](http://elsmore.me/seium-demo/)
+[http://elsmore.me/jsoxford-demo/](http://elsmore.me/jsoxford-demo/)
