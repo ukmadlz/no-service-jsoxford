@@ -4,8 +4,8 @@
 db.put(doc, [docId], [docRev], [options], [callback]);
 
 var doc = {
-  _id: "brumjs§",
-  event: "BrumJS",
+  _id: "jsoxford",
+  event: "JSOxford",
   type: "conference",
   date: "2015-10-15"
 }
