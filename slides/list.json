@@ -146,7 +146,7 @@
     "bulk-actions.md",
     "changes.md",
     "attachments.md",
-    "query.md",
+    ["query.md","tip-reduce.md"],
     "replication.md",
     "sync.md",
     "magic-bit.md",

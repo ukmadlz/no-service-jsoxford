@@ -26,7 +26,7 @@ db.put(ddoc, function (err) {
   // ignore if doc already exists
   // find docs where type === 'conference'
   db.query('index', {
-    key: 'conference',
+    key: 'meetup',
     include_docs: true
   }, function (err, result) {
     if (err) { return console.log(err); }

@@ -4,7 +4,7 @@ Create
 ```
 db.bulkDocs(docs, [options], [callback]);
 db.bulkDocs([
-  {event: "BristolJS",}, {event : "BVGS"}
+  {event: "JSOxford",}, {event : "Render"}
 ], function(err, response) {
   if (err) { return console.log(err); }
   // handle result
